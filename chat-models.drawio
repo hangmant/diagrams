@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-07-26T16:53:45.885Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="PKqjPv4zBAv1Mt5xEiZe" version="13.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-27T01:55:24.412Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="UQZmzBeQDXrFf37mQBh9" version="13.5.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1227" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -45,14 +45,11 @@
         <mxCell id="EJpG4aKHv43q5tpVhDdi-9" value="html: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontFamily=Courier New;" vertex="1" parent="EJpG4aKHv43q5tpVhDdi-4">
           <mxGeometry y="78" width="370" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="EJpG4aKHv43q5tpVhDdi-10" value="name: String" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontFamily=Courier New;" vertex="1" parent="EJpG4aKHv43q5tpVhDdi-4">
+        <mxCell id="EJpG4aKHv43q5tpVhDdi-7" value="fromUser: ID // UserId sended the message, INDEX" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontFamily=Courier New;" vertex="1" parent="EJpG4aKHv43q5tpVhDdi-4">
           <mxGeometry y="100" width="370" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="EJpG4aKHv43q5tpVhDdi-7" value="fromUser: ID // UserId sended the message, INDEX" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontFamily=Courier New;" vertex="1" parent="EJpG4aKHv43q5tpVhDdi-4">
-          <mxGeometry y="126" width="370" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="EJpG4aKHv43q5tpVhDdi-8" value="roomId: ID // INDEX this" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;fontFamily=Courier New;" vertex="1" parent="EJpG4aKHv43q5tpVhDdi-4">
-          <mxGeometry y="152" width="370" height="26" as="geometry" />
+          <mxGeometry y="126" width="370" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
